@@ -1,0 +1,4 @@
+http://download.pytorch.org/whl/cu80/torch-0.1.12.post2-cp36-cp36m-linux_x86_64.whl
+https://github.com/pytorch/vision/archive/master.zip
+jupyter
+matplotlib
